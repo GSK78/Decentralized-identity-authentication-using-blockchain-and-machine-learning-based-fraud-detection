@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "timestamp": "2026-04-01T08:09:04.278005Z",
+    "userAddress": "0xa29FC23Fa33F1D3c566bD3459Ce17225EadF109A",
+    "amount": 2009.63,
+    "probability": 0.02000260607849424,
+    "prediction": 0,
+    "status": "Safe",
+    "txHash": null
+  },
+  {
+    "id": 2,
+    "timestamp": "2026-04-01T08:09:11.070680Z",
+    "userAddress": "0xa29FC23Fa33F1D3c566bD3459Ce17225EadF109A",
+    "amount": 987.81,
+    "probability": 0.02000260607849424,
+    "prediction": 0,
+    "status": "Safe",
+    "txHash": null
+  }
+]
