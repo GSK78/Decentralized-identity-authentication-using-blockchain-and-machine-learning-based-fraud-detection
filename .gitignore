@@ -1,0 +1,21 @@
+# Environment variables
+.env
+
+# Node modules (frontend dependencies)
+frontend/node_modules/
+frontend/build/
+
+# Python cache and virtual environments
+backend/__pycache__/
+backend/.venv/
+*.pyc
+
+# ML model and dataset files (large files)
+savedresult/
+dataset/
+
+# Logs and temporary files
+*.log
+*.tmp
+node_modules
+kubo/
